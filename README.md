@@ -33,7 +33,7 @@ In Javascript, when we refer to the DOM we refer to this structure, which we can
 Given an index.html document, the app.js file must modify the DOM in order to:
 
 
-Create a function that removes from the DOM the column that corresponds to the index entered in deleteInput
-Create a function that creates new div with random size title Hn
-Create a function that removes the last node without giving error
-Create a function that applies styles to all columns varying the event
+1. Create a function that removes from the DOM the column that corresponds to the index entered in deleteInput
+2. Create a function that creates new div with random size title Hn
+3. Create a function that removes the last node without giving error
+4. Create a function that applies styles to all columns varying the event
